@@ -1,0 +1,9 @@
+# Obsidian & macOS metadata
+.obsidian/
+.DS_Store
+*.swp
+Thumbs.db
+
+# Backups or temporary files
+*.tmp
+*.bak
