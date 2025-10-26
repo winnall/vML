@@ -118,7 +118,7 @@ Please:
 
 ---
 
-## 📜 License
+## 📜 Licence
 
 This project is licensed under the **Apache License, Version 2.0**.  
 You may use, modify, and distribute this work under the terms of that licence.
