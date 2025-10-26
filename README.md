@@ -120,9 +120,9 @@ Please:
 
 ## 📜 License
 
-This draft is released under a permissive open documentation license.  
-Use and modify freely with attribution.
+This project is licensed under the **Apache License, Version 2.0**.  
+You may use, modify, and distribute this work under the terms of that licence.
 
----
+See the [LICENCE](./LICENCE) file for full text.
 
 > **vML** — _Visual structure, textual compatibility, human clarity._
